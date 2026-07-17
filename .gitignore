@@ -1,0 +1,6 @@
+# Notes app internal data
+.notes-app/
+
+# OS
+.DS_Store
+Thumbs.db

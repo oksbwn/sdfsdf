@@ -1,14 +1,18 @@
 ---
-Tags: chast, hello
-  - guide
-  - ai
----
+  Tags: chast, hello
+    - guide
+    - ai
+  ---
 Name: Bikash,Panda,Hari
-Time: 10:04, 02 Jul 2026 to 10:04, 07 Jul 2026
-Location: Sonepur
+  Time: 10:04, 02 Jul 2026 to 10:04, 07 Jul 2026
+  Location: Sonepur
 
-# RawNotes
+[README](./README.md) 
+
+![Screenshot](/media/images/screenshot-20260927-112502.png)
+
 Hello World dddde
+
 ![Excalidraw Diagram](.notes-app/excali-diagrams/1c4fec03/diagram.png){data-diagram-id="1c4fec03" data-diagram-type="excalidraw"}
 
 # AI Integration and Search
@@ -16,7 +20,23 @@ Hello World dddde
 - [ ] An open task
 Bikash Pandaaasasasasasasasasasasasasas
 
+![meeting_2026-09-26T09-12-14.webm](./media/audio/meeting_2026-09-26T09-12-14.webm)
+
+dfgfdg
+![meeting_2026-09-26T09-12-14.webm](./media/audio/meeting_2026-09-26T09-12-14.webm) 
+
+[[dfsj]] 
+
 sd
+[media/]
+
+
+```mermaid
+flowchart LR
+  A[Start] --> B[Review]
+  B --> C[Done]
+```
+- [ ] #p2 
 
 [ ] Second task
 
@@ -100,7 +120,6 @@ Connect Gemini or Groq API keys in the settings tab to unlock:
 
 [008698013](/media/docs/008698013-5.pdf)
 
-# Cleansed
 AI Integration and Search. Connect Gemini or Groq API keys.
 
 - [ ] An open task
